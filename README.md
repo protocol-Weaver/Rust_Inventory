@@ -82,6 +82,15 @@ Follow these steps to set up the Rust Inventory Handling System on your local ma
 5. **Explore and Enjoy:**
    Navigate through the console interface to manage your inventory efficiently. Have fun exploring the features and functionalities!
 
+### NOTE
+In order to add admins,passwords within the access control, you need to follow the example below : 
+```cpp
+managers.insert("alice".to_string(), Manager{username: "alice".to_string(), password: "1234".to_string()});
+```
+
+In the Code developed, Default admin is "alice" and password is "1234"
+
+
 ## Contribution
 
 Contributions are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
