@@ -75,7 +75,6 @@ Follow these steps to set up the Rust Inventory Handling System on your local ma
    ```bash
    cargo run
    ```
-   The console-based interface will guide you through the setup and usage of the system.
 
 5. **Explore and Enjoy:**
    Navigate through the console interface to manage your inventory efficiently. Have fun exploring the features and functionalities!
