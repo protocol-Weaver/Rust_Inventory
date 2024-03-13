@@ -59,8 +59,8 @@ Follow these steps to set up the Rust Inventory Handling System on your local ma
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AbdulRehman/Inventory-Handling-System.git
-   cd Inventory-Handling-System
+   git clone https://github.com/AbdulRehman/Rust_Inventory.git
+   cd Rust_Inventory
    ```
 
 2. **Install Rust:**
