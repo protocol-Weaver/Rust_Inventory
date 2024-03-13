@@ -38,7 +38,6 @@ Our vision for the Rust Inventory Handling System is to revolutionize inventory 
 
 **Step 6: Deployment**
 - Deploy the Rust Inventory Handling System on the chosen platform.
-- Ensure seamless integration between the smart contract and front-end.
 - Monitor system performance and address any post-deployment issues promptly.
 
 This development plan ensures a systematic approach to building the Rust Inventory Handling System, focusing on the core smart contract functions, security, user interfaces, and thorough testing before deployment.
