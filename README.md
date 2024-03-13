@@ -20,8 +20,7 @@ Our vision for the Rust Inventory Handling System is to revolutionize inventory 
 - Identify user roles, such as admin and standard users.
 - Specify security measures and authentication protocols.
 
-**Step 2: Smart Contract Design and Functions**
-- Develop smart contract functions for real-time inventory display.
+**Step 2: Editing Inventory Functionality**
 - Implement functions for product editing, addition, and deletion via Rust Vectors.
 - Integrate authentication functions for secure user access.
 
