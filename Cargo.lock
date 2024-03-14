@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "exp"
+name = "Rust_Inventory"
 version = "0.1.0"
